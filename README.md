@@ -1,16 +1,4 @@
-# vagrant-symfony-project
-CentOS VM with empty Symfony project
+symfony-project
+===============
 
-
-## How to use
-
-
-####1) Checkout the project in your workdir
-```
-git clone git@github.com:djfmartins/symfony-project.git
-```
-
-####2) Install dependencies
-```
-composer install
-```
+A Symfony project created on May 2, 2015, 12:48 am.
