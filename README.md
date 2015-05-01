@@ -16,7 +16,7 @@ composer install
 ```
 
 ####3) Add `http://symfony-project.dev/` to the hosts (optional)
-In order to access the project in your browser at the url `http://symfony-project.dev/`,
+In order to access the project in your browser through the url `http://symfony-project.dev/`,
 add the following line to your hosts file (`/etc/hosts`)
 
 ```
@@ -24,6 +24,6 @@ add the following line to your hosts file (`/etc/hosts`)
 ```
 
 ####4) Access your project
-You can check the page `http://symfony-project.dev/config.php` to check your configuration
+Visit the page `http://symfony-project.dev/config.php` to check your configuration
 
 Access the dev page at `http://symfony-project.dev/app_dev.php`
